@@ -1,0 +1,8 @@
+@Kevin Smith    @Soccer    @9 @2017 @False
+@Jason Canuck    @Soccer    @6 @2015 @True
+@John French    @Soccer    @10 @2019 @False
+@Sarah Python    @Soccer    @7 @2020 @False
+@See Sharp    @Tennis    @4 @2015 @False
+@Cupa Java    @Soccer    @2 @2013 @False
+@Live More    @Soccer    @9 @2020 @False
+@James Bam   @Tennis   @7 @2019 @False
